@@ -65,11 +65,11 @@ Let's examine these in more detail...
 
 # 1. Disrespectful
 
+* _"Social Games are the bastard step-child of Turn-Based & Real-Time games"_
+
 If Turn-Based games and Real-Time games ever had an evil step-child
 then Social Games would be it in spades -- it combines the **worst** of both
 game styles.
-
-* _"Social Games are the bastard step chip of Turn-Based & Real-Time games"_
 
 Traditional games let the player direct/control the pacing of the game at a 
 much finer level (depending if the game is single player or multiplayer.)
